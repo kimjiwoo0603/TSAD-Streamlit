@@ -1,4 +1,5 @@
 팀저장소 : https://github.com/sihunjo-cell/TSAD_project
+대한산업공학회 프로젝트경진대회 출품작(BAMTI)의 웹 대시보드입니다.
 
 역할: 시스템 설계 참여, VUS-PR 평가 코드 수정 및 전체 후보 모델 실행, 웹 대시보드 구현
 
