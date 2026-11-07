@@ -1,3 +1,6 @@
+팀저장소 : https://github.com/sihunjo-cell/TSAD_project
+
+
 # TSAD Decision Studio
 
 기업의 시계열 이상탐지 모델 선정을 돕는 Streamlit 의사결정 대시보드입니다. 제공된 Dev18 brief를 근거로 `관측됨`, `후보 milestone`, `추가 측정 필요`를 분리해 보여줍니다.
